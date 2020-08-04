@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce1a8d97-1e2d-4968-9450-5f6178be879d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fQsvhPVTgRYIjljykLYsl3lIRw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demo-for-job/spring-boot-demo-admin" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.Streams">
+    <configuration name="AlgorithmInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="indi.learn.AlgorithmInJava" />
+      <module name="Learning_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="indi.learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="indi.learn.Exceptions" />
+      <module name="Learning_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="indi.learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="indi.learn.OnJava" />
+      <module name="Learning_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="indi.learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="indi.learn.Streams" />
+      <module name="Learning_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="indi.learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Word" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="indi.learn.Word" />
+      <module name="Learning_java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="indi.learn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Streams" />
+        <item itemvalue="Application.AlgorithmInJava" />
+        <item itemvalue="Application.Exceptions" />
+        <item itemvalue="Application.OnJava" />
+        <item itemvalue="Application.Word" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce1a8d97-1e2d-4968-9450-5f6178be879d" name="Default Changelist" comment="" />
+      <created>1596161882522</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596161882522</updated>
+      <workItem from="1596161885922" duration="15150000" />
+      <workItem from="1596415947914" duration="14734000" />
+      <workItem from="1596500109893" duration="20787000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="602" y="297" key="#Notifications" timestamp="1596504233926">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="602" y="297" key="#Notifications/0.0.1440.870@0.0.1440.870" timestamp="1596504233926" />
+    <state x="174" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596161998727">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="174" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.870@0.0.1440.870" timestamp="1596161998727" />
+    <state x="500" y="190" key="FileChooserDialogImpl" timestamp="1596528021890">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="500" y="190" key="FileChooserDialogImpl/0.0.1440.870@0.0.1440.870" timestamp="1596528021890" />
+    <state width="1397" height="190" key="GridCell.Tab.0.bottom" timestamp="1596526812661">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1397" height="190" key="GridCell.Tab.0.bottom/0.0.1440.870@0.0.1440.870" timestamp="1596526812661" />
+    <state width="1877" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1596457981210" />
+    <state width="1397" height="190" key="GridCell.Tab.0.center" timestamp="1596526812661">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1397" height="190" key="GridCell.Tab.0.center/0.0.1440.870@0.0.1440.870" timestamp="1596526812661" />
+    <state width="1877" height="241" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1596457981210" />
+    <state width="1397" height="190" key="GridCell.Tab.0.left" timestamp="1596526812661">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1397" height="190" key="GridCell.Tab.0.left/0.0.1440.870@0.0.1440.870" timestamp="1596526812661" />
+    <state width="1877" height="241" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1596457981210" />
+    <state width="1397" height="190" key="GridCell.Tab.0.right" timestamp="1596526812661">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state width="1397" height="190" key="GridCell.Tab.0.right/0.0.1440.870@0.0.1440.870" timestamp="1596526812661" />
+    <state width="1877" height="241" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1596457981210" />
+    <state x="221" y="79" key="SettingsEditor" timestamp="1596422376187">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="221" y="79" key="SettingsEditor/0.0.1440.870@0.0.1440.870" timestamp="1596422376187" />
+    <state x="450" y="194" key="extract.method.dialog" timestamp="1596164245517">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="450" y="194" key="extract.method.dialog/0.0.1440.870@0.0.1440.870" timestamp="1596164245517" />
+    <state x="94" y="95" key="new project wizard" timestamp="1596188265710">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="94" y="95" key="new project wizard/0.0.1440.870@0.0.1440.870" timestamp="1596188265710" />
+    <state x="383" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1596526403743">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="383" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1440.870@0.0.1440.870" timestamp="1596526403743" />
+  </component>
+</project>
